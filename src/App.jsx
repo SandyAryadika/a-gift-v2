@@ -205,7 +205,7 @@ function App() {
            
            {/* FIX: Hapus div height tetap, biarkan TextPressure mengisi natural */}
            <TextPressure
-              text="WELCOME."
+              text="ALOOOOOO."
               flex={true}
               alpha={false}
               stroke={false}
@@ -219,7 +219,7 @@ function App() {
 
            {/* Instruksi - Muncul hanya jika sudah Ready */}
            <p className={`mt-8 text-white/50 text-sm md:text-base tracking-[0.2em] md:tracking-[0.5em] animate-pulse lowercase font-light text-center transition-opacity duration-500 ${isReady ? 'opacity-100' : 'opacity-0'}`}>
-             [ click anywhere to start ]
+             [ dearest, click anywhere to start ]
            </p>
 
         </div>
