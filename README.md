@@ -2,7 +2,7 @@
 
 A cinematic, interactive digital photo album built with **React**, **WebGL**, and **Tailwind CSS**. Designed to showcase memories in an infinite circular menu with immersive background music and audio visualization.
 
-![Project Preview](https://remembranceee.vercel.app/)
+![Project Preview](./preview_memories.png)
 ## 🌟 Features
 
 - **Cinematic Intro:** "Text Pressure" effect with distortion animation before entering the album.
