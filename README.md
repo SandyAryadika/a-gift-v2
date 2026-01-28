@@ -2,7 +2,7 @@
 
 A cinematic, interactive digital photo album built with **React**, **WebGL**, and **Tailwind CSS**. Designed to showcase memories in an infinite circular menu with immersive background music and audio visualization.
 
-![Project Preview](https://via.placeholder.com/800x400?text=Preview+Image+Here)
+![Project Preview](https://remembranceee.vercel.app/)
 ## 🌟 Features
 
 - **Cinematic Intro:** "Text Pressure" effect with distortion animation before entering the album.
@@ -25,13 +25,13 @@ A cinematic, interactive digital photo album built with **React**, **WebGL**, an
 
 ```text
 ├── public/
-│   └── foto/          # 🖼️ TEMPAT MENYIMPAN FOTO UTAMA
+│   └── foto/          # 🖼️ MAIN PHOTO STORAGE LOCATION
 │       ├── 1.jpg
 │       ├── 2.jpg
 │       └── ...
 ├── src/
 │   ├── assets/
-│   │   └── song/      # 🎵 TEMPAT FILE LAGU (.mp3)
+│   │   └── song/      # 🎵 MUSIC FILE LOCATION (.mp3)
 │   ├── components/
 │   │   ├── bits/
 │   │   │   ├── InfiniteMenu.jsx  # Core WebGL Logic
@@ -44,7 +44,7 @@ A cinematic, interactive digital photo album built with **React**, **WebGL**, an
 
 1. Clone the repository
 ```bash
-git clone https://github.com/SandyAryadika/a-gift-v2
+git clone https://github.com/SandyAryadika/a-gift-v2.git
 cd repo-name
 ```
 
